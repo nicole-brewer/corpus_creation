@@ -1,0 +1,9 @@
+name: corpus_creation
+channels:
+    - jmgeiger # for elsapy fork w/ conda
+    - conda-forge
+dependencies:
+    - python
+    - elsapy
+    - jupyterlab
+    - jupyter-book
