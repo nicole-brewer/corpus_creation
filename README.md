@@ -1,7 +1,11 @@
 # corpus_creation
 
-> How to use Scopus to create a corpus for dissertation analysis
+> How to use Scopus to create a corpus with the [Scopus Python SDK](https://github.com/ElsevierDev/elsapy)
 
-We learn to use the [Scopus Python SDK](https://github.com/ElsevierDev/elsapy) to create a large corups.
+This work is being developed as I learn to create a corpus which I will analyse as part of my dissertation. 
 
-Note: It is my goal to also create a web interface for this task. 
+Goals:
+
+- Create a jupyter book
+- Binder
+- Create a web application
