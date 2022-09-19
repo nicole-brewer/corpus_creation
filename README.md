@@ -1,4 +1,4 @@
-# corpus_creation
+# Corpus Creation with Scopus
 
 > How to use Scopus to create a corpus with the [Scopus Python SDK](https://github.com/ElsevierDev/elsapy)
 
